@@ -1,4 +1,4 @@
-# curso-react 
+# react-course
 Files generated while studying React.js
 
 - **Course repository**: https://github.com/matheusbattisti/curso_react
